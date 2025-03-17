@@ -876,7 +876,7 @@ class _HealthAdviceScreenState extends State<HealthAdviceScreen> {
   List<Map<String, String>> healthTips = [];
 
 Future<void> fetchHealthAdvice() async {
-  const String apiKey = "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"; // Replace with actual key
+  const String apiKey = ""; // Replace with actual key
   const String apiUrl = "https://api.openai.com/v1/chat/completions";
 
   try {
