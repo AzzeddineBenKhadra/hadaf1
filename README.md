@@ -1,10 +1,11 @@
 # hadaf1
 
-A new Flutter project.
+A simple app to calculate your BMI according to your weight, height, and age. In addition to a notification system that notifies you with health tips every
+one hour. These health tips are generated automatically using OpenAPI.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project uses flutter.
 
 A few resources to get you started if this is your first Flutter project:
 
