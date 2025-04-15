@@ -3,6 +3,8 @@
 A simple app to calculate your BMI according to your weight, height, and age. In addition to a notification system that notifies you with health tips every
 one hour. These health tips are generated automatically using OpenAPI.
 
+
+![Alt text](assets/Hadaf1 App Capture.PNG)
 ## Getting Started
 
 This project uses flutter.
